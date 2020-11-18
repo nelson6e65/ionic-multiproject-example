@@ -1,0 +1,29 @@
+{
+  "projects": {
+    "customer": {
+      "name": "Customer",
+      "integrations": {},
+      "type": "angular",
+      "root": "apps\\app1"
+    },
+    "app2": {
+      "name": "app2",
+      "integrations": {},
+      "type": "angular",
+      "root": "apps\\app2"
+    },
+    "app3": {
+      "name": "app3",
+      "integrations": {},
+      "type": "angular",
+      "root": "apps\\app3"
+    },
+    "app1": {
+      "name": "app1",
+      "integrations": {},
+      "type": "angular",
+      "root": "apps\\app1"
+    }
+  },
+  "defaultProject": "app1"
+}
